@@ -7,7 +7,7 @@ JSON files with nodes and edges.
 
 # Representations 
 
-For diagnoses and procedures, in sizes 30 and 768: 
+For diagnoses and procedures, in size 30: 
 
 - Node2Vec
 - PBG
